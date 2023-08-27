@@ -1,3 +1,7 @@
+/*
+ 
+Merge Sort is a divide-and-conquer sorting algorithm that recursively splits a list in half, sorts the halves, and then merges them back together.
+ */
 #include<stdio.h>
 void merge(int arr[],int a,int m,int b)
 {
