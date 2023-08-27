@@ -1,4 +1,7 @@
- void bubblesort(int a,int arr[])
+/*
+Bubble Sort is a basic sorting algorithm that repeatedly steps through a list, comparing and swapping adjacent elements until it's sorted.
+*/
+void bubblesort(int a,int arr[])
   {
     int temp;
      for(int i=0;i<a-1;i++)
